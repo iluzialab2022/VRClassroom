@@ -9,7 +9,5 @@ EditorBuildSettings:
     path: Assets/Artefacts/Scenes/VRClassroom.unity
     guid: 0bc052644b8f4374c9737475cd3db0f1
   m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 91f7e0b9e1c2147d293e268cd14a1b3d,
-      type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8f9adcf9246994a0f8dca06c7d9d3796,
-      type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 492bb31213cc1417483f4432c6c9dac2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b7209f604e1d04a618862dd1096cba7e, type: 2}
